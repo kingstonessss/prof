@@ -1,2 +1,2 @@
-# prof
+# neo
 our group project
